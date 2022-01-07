@@ -1,0 +1,26 @@
+main: br.com.pepe.SystemCore.Main
+version: 1.7.2
+name: SystemCore
+commands:
+   SystemCore:
+      aliases: [sc, system, core, systemc]
+   PluginInfo:
+      aliases: [plinfo, infopl, pl, plugininf, inf]
+   Raio:
+      aliases: [cairraio, trovao]
+   Uptime:
+      aliases: [up, time]
+   Ping:
+      aliases: [getping, qualemeuping, playerping]
+   TickSpeed:
+      aliases: [changetick, changetickspeed, tick, speed, randomtick, randomtickspeed]
+   Fly:
+      aliases: [voar, ligarfly, desligarfly]
+   Ban:
+      aliases: [banir, banirplayer, playerban]
+   Unban:
+      aliases: [desbanir, desbanirplayer, unbanplayer]
+   SS:
+      aliases: [jaula, tela, vertela]
+   setSS:
+      aliases: [setarjaula, setarss, setartela]
